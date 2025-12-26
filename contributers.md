@@ -1,4 +1,3 @@
-
 | Name                    | GitHub ID            | College Name                   |
 |-------------------------|----------------------|--------------------------------|
 | Asra Tabassum           | Tabassumasra05       | IIIT Allahabad                 |
@@ -11,7 +10,7 @@
 | Omdeep Masram           | omicoded19           | IIIT Allahabad                 |
 | Himansh Arora           | Humanshere           | IIIT Allahabad                 | 
 | Himanshu Arora          | HimanshuArora-pixel  | IIIT Allahabad                 |
-
+| Shambhu                 | Zarxeon              | IIIT Allahabad                 |
 
 
 <!-- ADD ABOVE THIS -->
